@@ -1,11 +1,14 @@
 Source: unity-launcher-folders
-Section: python
-Priority: extra
+Section: gnome
+Priority: optional
 Build-Depends: debhelper (>= 8),
  python (>= 2.6.6-3~),
  python-distutils-extra (>= 2.10)
 Maintainer: Anton Sukhovatkin <laucnherfolders@exceptionfound.com>
-Standards-Version: 3.9.3
+Standards-Version: 3.9.5
+Homepage: http://unity-folders.exceptionfound.com
+Vcs-Browser: https://code.launchpad.net/~asukhovatkin/unity-launcher-folders/quickly_trunk
+Vcs-Bzr: lp:~asukhovatkin/unity-launcher-folders/quickly_trunk
 X-Python-Version: >= 2.6
 
 Package: unity-launcher-folders

@@ -1,29 +1,5 @@
-unity-launcher-folders (14.09.4) trusty; urgency=medium
-
-  * New release.
-
- -- Anton Sukhovatkin <asukhovatkin@gmail.com>  Mon, 19 Jan 2015 18:48:49 -0500
-
-unity-launcher-folders (14.09.3) trusty; urgency=medium
-
-  * New release.
-
- -- Anton Sukhovatkin <asukhovatkin@gmail.com>  Sun, 28 Sep 2014 22:23:52 -0400
-
-unity-launcher-folders (14.09.2) trusty; urgency=medium
-
-  * New release.
-
- -- Anton Sukhovatkin <asukhovatkin@gmail.com>  Sun, 28 Sep 2014 22:10:07 -0400
-
-unity-launcher-folders (14.09) trusty; urgency=medium
-
-  * Creating ubuntu package
-
- -- Anton Sukhovatkin <asukhovatkin@gmail.com>  Sun, 28 Sep 2014 21:58:09 -0400
-
-unity-launcher-folders (1.0.2) trusty; urgency=medium
+unity-launcher-folders (14.09.4-0ubuntu1) vivid; urgency=medium
 
   * Initial release.
 
- -- Anton Sukhovatkin <asukhovatkin@gmail.com>  Sun, 28 Sep 2014 21:49:09 -0400
+ -- Anthony Wong <anthony.wong@ubuntu.com>  Tue, 20 Jan 2015 10:24:23 +0800
